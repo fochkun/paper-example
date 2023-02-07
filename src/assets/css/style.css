@@ -5,3 +5,10 @@ html, body, #content {
     height: 100%;
     overflow: hidden;
 }
+
+.buttons {
+    position: absolute;
+    display: block;
+    top: 30px;
+    right: 50px;
+}
